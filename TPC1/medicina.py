@@ -1,4 +1,5 @@
 import re
+import json
 
 text=open("medicina.xml", 'r').read()
 
@@ -67,6 +68,8 @@ def marcaResto(t):
     t = re.sub(r'<text.*>\s*Vid.\s*(\w.*)</text>', r'_V_\1', t)
     t = re.sub(r'\n<text.*>(<[ib]>)?(<[ib]>)?\s*(\w.*)(</[ib]>)?(</[ib]>)?</text>', r'\3', t)
     t = re.sub(r'\n<text.*>\s*(<[ib]>)?\s*(<[ib]>)?\s*(\S.*)(</[ib]>)?\s*(</[ib]>)?\s*</text>', r'\3', t)
+    t = re.sub(r'<text.*><[ib]><[ib]>(.*)</[ib]></[ib]></text>', r'\1', t)
+    t = re.sub(r'<.*>', r'', t)
     return t
 
 
@@ -86,4 +89,26 @@ text = marcaResto(text)
 
 open("result.txt", "w").write(text)
 
+
+dic = []
+taux = ""
+
+list = text.split('\n_EC_')
+
+# for i in list[1:]:
+#     entry = {}
+#     i = i.split("_N_")
+#     entry["id"] = i[0]
+#     i = i[1].split("_G_")
+#     entry["nome"] = i[0]
+#     i = i[1].split("\n_A_")
+#     entry["area"] = i[0]
+    
+#     dic.append(entry)
+    
+
+
+# open("res.json", "w").write(str(dic))
+with open('res.json', 'w', encoding='utf8') as fp:
+    json.dump(dic, fp, ensure_ascii=False)
 
