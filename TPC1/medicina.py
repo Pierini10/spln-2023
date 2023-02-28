@@ -63,6 +63,10 @@ def marcaNotas(t):
 def marcaResto(t):
     t = re.sub(r'<text.*font="5">\s*Vid.-\s*(\w.*)</text>', r'_V_\1', t)
     t = re.sub(r'\n<text.*font="5">\s*(\S.*)</text>', r'\1', t)
+    t = re.sub(r'<text.*>\s*Vid.-\s*(\w.*)</text>', r'_V_\1', t)
+    t = re.sub(r'<text.*>\s*Vid.\s*(\w.*)</text>', r'_V_\1', t)
+    t = re.sub(r'\n<text.*>(<[ib]>)?(<[ib]>)?\s*(\w.*)(</[ib]>)?(</[ib]>)?</text>', r'\3', t)
+    t = re.sub(r'\n<text.*>\s*(<[ib]>)?\s*(<[ib]>)?\s*(\S.*)(</[ib]>)?\s*(</[ib]>)?\s*</text>', r'\3', t)
     return t
 
 
@@ -81,3 +85,5 @@ text = marcaNotas(text)
 text = marcaResto(text)
 
 open("result.txt", "w").write(text)
+
+

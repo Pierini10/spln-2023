@@ -110,8 +110,7 @@ _A_Semioloxía
 _L_es_acantolisis
 _L_en_acantholysis
 _L_pt_acantólise
-_EC_17_N_acantose 
-<text top="357" left="437" width="55" height="18" font="10"><i><b>nigricans</b></i></text>
+_EC_17_N_acantose nigricans</b></i>
 _ER_f
 _A_Patoloxías
 _L_es_acantosis nigricans
@@ -142,11 +141,9 @@ _L_pt_acidente isquêmico transitório; AIT (sg); ataque isquêmico transitório
 _ER_accidente laboral
 _V_accidente de traballo
 _ER_accidente vascular cerebral
-_V_ictus
-<text top="387" left="128" width="38" height="18" font="11"><b>acedía</b></text>
-<text top="390" left="185" width="54" height="14" font="0">Vid.- pirose</text>
-<text top="419" left="128" width="53" height="18" font="11"><b>acedume</b></text>
-<text top="422" left="200" width="54" height="14" font="0">Vid.- pirose</text>
+_V_ictusacedía</b>
+_V_piroseacedume</b>
+_V_pirose
 _EC_21_N_aceptación_G_f
 _A_Fisioloxía
 _L_es_aceptación
@@ -231,8 +228,7 @@ _A_Bioquímica|Fisioloxía
 _S_HCl (sb)
 _L_es_ácido clorhídrico
 _L_en_hydrochloric acid
-_L_pt_ácido clorídrico
-<text top="125" left="342" width="35" height="18" font="2">  34 </text>
+_L_pt_ácido clorídrico34 
 _ER_ácido desoxirribonucleico      m
 _A_Bioquímica
 _S_ADN; (sg) DNA (sg)
@@ -381,7 +377,7 @@ _L_es_evento centinela; suceso centinela
 _L_en_sentinel event
 _L_pt_evento sentinela
 _ER_ACP
-<text top="461" left="410" width="162" height="14" font="0">          Vid. artera cerebral posterior</text>
+_V_artera cerebral posterior
 _EC_58_N_acrocianose_G_f
 _A_Patoloxías|Semioloxía
 _L_es_acrocianosis
@@ -783,8 +779,7 @@ _L_es_albinismo
 _L_en_albinism
 _L_pt_albinismo
 _ER_albinismo adquirido
-_V_vitilixe
-<text top="575" left="381" width="92" height="18" font="10"><i><b>albuginea oculi</b></i></text>
+_V_vitilixealbuginea oculi</b></i>
 _V_esclera
 _EC_120_N_albumina_G_f
 _A_Bioquímica
@@ -1421,8 +1416,7 @@ _L_es_anhidrosis; hipohidrosis
 _L_en_anhidrosis; hypohidrosis
 _L_pt_anidrose; hipoidrose
 _ER_anhidrótico
-_V_antitranspirante
-<text top="300" left="128" width="60" height="18" font="10"><i><b>anion gap</b></i></text>
+_V_antitranspiranteanion gap</b></i>
 _V_hiato aniónico
 _EC_225_N_anisocitose_G_f
 _A_Semioloxía
@@ -1570,8 +1564,7 @@ _ER_leucotrienos      m
 _A_Farmacoloxía
 _L_es_antagonista de receptores de leucotrienos
 _L_en_leukotriene receptor antagonist
-_L_pt_antagonista dos receptores de leucotrienos
-<text top="632" left="89" width="35" height="18" font="2">  250 </text>
+_L_pt_antagonista dos receptores de leucotrienos250 
 _ER_antagonista dos receptores 
 _ER_H2      m
 _A_Farmacoloxía
@@ -1810,8 +1803,7 @@ _L_pt_antigotoso
 _EC_289_N_antihelmíntico_G_m
 _A_Farmacoloxía
 _S_vermífugo
-_L_es_antelmíntico; antihelmíntico
-<text top="636" left="531" width="9" height="14" font="0">;  </text>vermífugo
+_L_es_antelmíntico; antihelmíntico;  vermífugo
 _L_en_anthelminthic; anthelmintic; vermifuge
 _L_pt_anti-helmíntico; vermífugo
 _EC_290_N_antihemorráxico_G_m
@@ -1829,12 +1821,10 @@ _EC_292_N_antihipertensivo_G_m
 _A_Farmacoloxía
 _L_es_antihipertensivo
 _L_en_antihypertensive
-_L_pt_antihipertensivo; anti-hipertensivo
-<text top="476" left="128" width="80" height="18" font="11"><b>antihistamina</b></text>
-<text top="493" left="128" width="97" height="14" font="0">Vid.- antihistamínico</text>
+_L_pt_antihipertensivo; anti-hipertensivoantihistamina</b>
+_V_antihistamínico
 _EC_293_N_antihistamínico_G_m
-_A_Farmacoloxía
-<text top="554" left="121" width="112" height="14" font="0">  VAR.- antihistamina (f)</text>
+_A_FarmacoloxíaVAR.- antihistamina (f)
 _L_es_antihistamina; antihistamínico
 _L_en_antihistamine; antihistaminic
 _L_pt_anti-histamina; anti-histamínico
@@ -2699,8 +2689,7 @@ _A_Anatomía
 _S_ACP (sg)
 _L_es_ACP (sg); arteria cerebral posterior
 _L_en_PCA (sg); posterior cerebral artery
-_L_pt_ACP
-<text top="324" left="169" width="25" height="14" font="0"> (sg); </text>artéria cerebral posterior
+_L_pt_ACP(sg); artéria cerebral posterior
 _L_la_arteria cerebri posterior
 _EC_422_N_arteria circunflexa_G_f
 _A_Anatomía
@@ -3103,8 +3092,7 @@ _NOT_Evítese “articulación sellar”.
 _ER_articulación selar 
 _V_articulación por encaixe recíproco
 _ER_*articulación sellar
-_V_articulación por encaixe recíproco
-<text top="676" left="342" width="35" height="18" font="2">  484 </text>
+_V_articulación por encaixe recíproco484 
 _ER_articulación sinovial      f
 _A_Anatomía
 _S_diartrose; articulación diartrodial
@@ -3484,8 +3472,7 @@ _L_la_atlas
 _ER_atomización
 _V_nebulización
 _ER_atomizador 
-_V_nebulizador
-<text top="189" left="342" width="35" height="18" font="2">  544 </text>
+_V_nebulizador544 
 _ER_atopía      f
 _A_Etiopatoxenia
 _L_es_atopia
@@ -3974,8 +3961,7 @@ _L_es_beriberi
 _L_en_beriberi
 _L_pt_beri-beri; beribéri
 _EC_616_N_betalactamase_G_f
-_A_Bioquímica
-<text top="292" left="121" width="107" height="14" font="0">  VAR.- beta-lactamase</text>
+_A_BioquímicaVAR.- beta-lactamase
 _L_es_beta-lactamasa
 _L_en_beta-lactamase
 _L_pt_betalactamase; beta-lactamase
@@ -4675,8 +4661,7 @@ _L_pt_nuca
 _L_la_nucha
 _EC_727_N_cámara anterior do ollo_G_f
 _A_Anatomía
-_L_es_cámara anterior del ojo; cámara ocular anterior 
-<text top="482" left="130" width="14" height="14" font="0">en </text>anterior chamber of eyeball; eye’s anterior chamber
+_L_es_cámara anterior del ojo; cámara ocular anterior en anterior chamber of eyeball; eye’s anterior chamber
 _L_pt_câmara anterior do olho; câmara ocular anterior
 _L_la_camera anterior bulbi oculi
 _EC_728_N_cámara hiperbárica_G_f
@@ -6521,8 +6506,7 @@ _ER_CMV
 _V_citomegalovirus
 _ER_CO
 _V_monóxido de carbono
-_ER_CO
-<text top="666" left="149" width="4" height="10" font="13"><b>2</b></text>
+_ER_CO2</b>
 _V_dióxido de carbono
 _EC_1011_N_coagulación_G_f
 _A_Fisioloxía
@@ -7671,8 +7655,7 @@ _L_es_coroiditis; uveítis posterior
 _L_en_choroiditis; posterior uveitis
 _L_pt_coroidite; uveíte posterior
 _ER_coroidorretinite      
-_V_retinocoroidite
-<text top="607" left="381" width="89" height="18" font="10"><i><b>corona radiata</b></i></text>
+_V_retinocoroiditecorona radiata</b></i>
 _V_coroa radiada
 _EC_1193_N_coronariografía_G_f
 _A_Probas complementarias
@@ -7693,8 +7676,7 @@ _L_es_cuerpo
 _L_en_body
 _L_pt_corpo
 _L_la_corpus
-_ER_corpo 
-<text top="372" left="166" width="51" height="18" font="10"><i><b>albicans</b></i></text>Vid.- 
+_ER_corpo albicans</b></i>Vid.- 
 _A_corpus 
 _A_albicans
 _ER_corpo amareloVid.- 
@@ -7814,8 +7796,7 @@ _V_área sensitiva
 _ER_córtex sensorial
 _V_área sensitiva
 _EC_1211_N_corticoide_G_m
-_A_Farmacoloxía
-<text top="156" left="121" width="107" height="14" font="0">  VAR.- corticosteroide</text>
+_A_FarmacoloxíaVAR.- corticosteroide
 _L_es_corticoide; corticosteroide
 _L_en_corticoid; corticosteroid
 _L_pt_corticóide; corticosteróide
@@ -8175,8 +8156,7 @@ _S_corneto superior (m)
 _L_es_concha nasal superior; cornete nasal superior; cornete superior
 _L_en_superior nasal concha; superior turbinated bone
 _L_pt_concha nasal superior; corneto superior
-_L_la_concha nasalis superior
-<text top="648" left="128" width="41" height="18" font="10"><i><b>cuneus</b></i></text>
+_L_la_concha nasalis superiorcuneus</b></i>
 _V_óso cuneiforme
 _ER_cuña 
 _V_óso cuneiforme
@@ -8751,8 +8731,7 @@ _L_es_descongestionante; descongestivo
 _L_en_decongestant
 _L_pt_descongestionante
 _ER_desconxestivo      
-_V_desconxestionante
-<text top="683" left="89" width="35" height="18" font="2"> 1351 </text>
+_V_desconxestionante1351 
 _ER_descorticación      f
 _A_Etiopatoxenia
 _L_es_decorticación
@@ -8920,8 +8899,7 @@ _A_PatoloxíasSIN.-
 _A_diabetes insipidus
 _L_es_diabetes insípida
 _L_en_diabetes insipidus
-_L_pt_diabete insípida; diabete insipidus; diabetes insípida; diabetes insipidus
-<text top="634" left="381" width="109" height="18" font="10"><i><b>diabetes insipidus</b></i></text>
+_L_pt_diabete insípida; diabete insipidus; diabetes insípida; diabetes insipidusdiabetes insipidus</b></i>
 _V_diabetes insípida
 _EC_1381_N_<text top="681" left="381" width="103" height="18" font="10"><i><b>diabetes mellitus</b></i></text>
 _ER_f
@@ -8991,8 +8969,7 @@ _A_Termos xerais
 _L_es_diagnóstico diferencial
 _L_en_differential diagnosis
 _L_pt_diagnóstico diferencial
-_EC_1391_N_diagnóstico 
-<text top="125" left="203" width="76" height="18" font="10"><i><b>post mortem</b></i></text>
+_EC_1391_N_diagnóstico post mortem</b></i>
 _ER_m
 _A_Termos xerais
 _L_es_diagnóstico post mortem
@@ -9100,8 +9077,7 @@ _L_en_dilatation of small bowel loops; distention of small bowel loops
 _L_pt_dilatação de alças intestinais; distensão de alças intestinais
 _EC_1410_N_dióxido de carbono_G_m
 _A_Bioquímica
-_S_CO
-<text top="315" left="425" width="3" height="8" font="14">2</text>(sb); anhídrico carbónico [arc.]
+_S_CO2(sb); anhídrico carbónico [arc.]
 _L_es_anhídrico carbónico [arc.]; dióxido de carbono
 _L_en_carbon dioxide; carbonic anhydride [arc.]
 _L_pt_anídrido carbónico [arc.]; dióxido de carbono
@@ -9432,8 +9408,7 @@ _EC_1466_N_disxeusia_G_f
 _A_Semioloxía
 _L_es_disgeusia
 _L_en_dysgeusia
-_L_pt_disgeusia
-<text top="217" left="374" width="45" height="14" font="8"><b>  DIU      </b></text>
+_L_pt_disgeusiaDIU      </b>
 _V_dispositivo intrauterino
 _EC_1467_N_diurese_G_f
 _A_Fisioloxía
@@ -11191,8 +11166,7 @@ _L_pt_escabicida
 _ER_escabiose 
 _V_sarna
 _ER_escafoide 
-_V_óso escafoide
-<text top="125" left="342" width="35" height="18" font="2"> 1747 </text>
+_V_óso escafoide1747 
 _ER_escala timpánica      f
 _A_Anatomía
 _S_rampla timpánica
@@ -12319,8 +12293,7 @@ _EC_1923_N_exérese_G_f
 _A_Terapéutica
 _L_es_exéresis
 _L_en_exeresis
-_L_pt_exérese
-<text top="218" left="128" width="36" height="18" font="10"><i><b>exitus</b></i></text>
+_L_pt_exéreseexitus</b></i>
 _V_morte
 _EC_1924_N_exocitose_G_f
 _A_Histoloxía|Bioquímica
@@ -12822,8 +12795,7 @@ _S_fertilización
 _L_es_fecundación; fertilización
 _L_en_fecundation; fertilization
 _L_pt_fecundação; fertilização
-_EC_1998_N_fecundación
-<text top="444" left="457" width="49" height="18" font="10"><i><b> in vitro</b></i></text>
+_EC_1998_N_fecundaciónin vitro</b></i>
 _ER_f
 _A_Terapéutica
 in vitroes_fecundación in vitro; fertilización in vitro
@@ -12921,8 +12893,7 @@ _L_pt_fertilidade
 _NOT_Designa a ‘capacidade fisiolóxica dunha muller, dun home ou dunha parellapara  producir un fillo ou filla vivos’. Cfr. con “fecundidade”.
 _ER_fertilización
 _V_fecundación
-_ER_fertilización
-<text top="413" left="203" width="49" height="18" font="10"><i><b> in vitro</b></i></text>
+_ER_fertilizaciónin vitro</b></i>
 _V_fecundación 
 _A_in vitro
 _EC_2013_N_férula_G_f
@@ -12941,10 +12912,8 @@ _A_Semioloxía
 _S_alento hepático
 _L_es_aliento hepático; fetor hepático; fetor hepaticus
 _L_en_fetor hepaticus; hepatic fetor
-_L_pt_fetor hepaticus; hálito hepático
-<text top="767" left="128" width="55" height="18" font="10"><i><b>fetor oris</b></i></text>
-_V_halitose
-<text top="125" left="381" width="86" height="18" font="10"><i><b>fetor uremicus</b></i></text>
+_L_pt_fetor hepaticus; hálito hepáticofetor oris</b></i>
+_V_halitosefetor uremicus</b></i>
 _V_alento urémico
 _EC_2016_N_fiabilidade_G_f
 _A_Epidemioloxía
@@ -13047,8 +13016,7 @@ _L_es_fibromialgia
 _L_en_fibromyalgia
 _L_pt_fibromialgia
 _ER_fibromioma uterino      
-_V_leiomioma uterino
-<text top="716" left="342" width="35" height="18" font="2"> 2033 </text>
+_V_leiomioma uterino2033 
 _ER_fibronectina      f
 _A_Bioquímica
 _L_es_fibronectina
@@ -13110,8 +13078,7 @@ _EC_2043_N_filovirus_G_m
 _A_Etiopatoxenia
 _L_es_filovirus
 _L_en_filovirus
-_L_pt_filovírus
-<text top="684" left="381" width="93" height="18" font="10"><i><b>filum terminale</b></i></text>
+_L_pt_filovírusfilum terminale</b></i>
 _V_filamento terminal
 _EC_2044_N_fimbria_G_f
 _A_Anatomía
@@ -13545,8 +13512,7 @@ _EC_2113_N_fóvea_G_f
 _A_Anatomía
 _L_es_fóvea
 _L_en_fovea
-_L_pt_fóvea
-<text top="507" left="133" width="11" height="14" font="0">la </text>fovea
+_L_pt_fóveala fovea
 _NOT_Designa ‘calquera fosa ou depresión anatómica de pequeno tamaño’.
 _EC_2114_N_fóvea_G_f
 _A_Semioloxía
@@ -14196,8 +14162,7 @@ _V_gammaglobulina
 _ER_glóbulo branco
 _V_leucocito
 _ER_glóbulo vermello
-_V_eritrocito
-<text top="602" left="381" width="104" height="18" font="10"><i><b>globus hystericus</b></i></text>
+_V_eritrocitoglobus hystericus</b></i>
 _V_bolo histérico
 _EC_2217_N_glomérulo_G_m
 _A_Histoloxía
@@ -14990,8 +14955,7 @@ _EC_2346_N_herpes_G_m
 _A_Patoloxías
 _L_es_herpes
 _L_en_herpes
-_L_pt_herpes
-<text top="595" left="381" width="108" height="18" font="10"><i><b>herpes gestationis</b></i></text>
+_L_pt_herpesherpes gestationis</b></i>
 _V_herpes xestacional
 _EC_2347_N_herpes labial_G_m
 _A_Patoloxías
@@ -15096,8 +15060,7 @@ _L_en_anion gap
 _L_pt_anion gap; hiato aniônico; intervalo aniônico
 _ER_hibernación miocárdica      
 _V_miocardio hibernado
-_EC_2364_N_hibridación 
-<text top="680" left="204" width="39" height="18" font="10"><i><b>in situ</b></i></text>
+_EC_2364_N_hibridación in situ</b></i>
 _ER_f
 _A_Xenética
 _L_es_hibridación in situ
@@ -16121,8 +16084,7 @@ _A_Fisioloxía|Bioquímica
 _S_LH (sg); hormona estimulante das células intersticiais; ICSH (sg)
 _L_es_hormona estimulante de las células intersticiales; hormona luteinizante LH (sg); ICSH (sg)
 _L_en_ICSH (sg); interstitial cell-stimulating hormone; LH (sg); luteinizing hormone
-_L_pt_hormona estimulante das células intersticiais [Pt]; hormona luteinizante [Pt.]
-<text top="486" left="224" width="3" height="14" font="0">;</text>hormônio estimulante das células intersticiais [Br.]; hormônio luteinizante [Br.]; ICSH (sg); LH (sg)
+_L_pt_hormona estimulante das células intersticiais [Pt]; hormona luteinizante [Pt.];hormônio estimulante das células intersticiais [Br.]; hormônio luteinizante [Br.]; ICSH (sg); LH (sg)
 _EC_2538_N_hormona paratiroide_G_f
 _A_Fisioloxía|Bioquímica
 _S_parathormona; PTH (sg)
@@ -16202,8 +16164,7 @@ _S_corpo vítreo
 _L_es_humor vítreo
 _L_en_vitreous body; vitreous humour
 _L_pt_corpo vítreo; humor vítreo
-_L_la_humor vitreus
-<text top="351" left="381" width="90" height="18" font="10"><i><b>hydrops fetalis</b></i></text>
+_L_la_humor vitreushydrops fetalis</b></i>
 _V_hidropisía fetal
 _ER_I 
 _V_iodo
@@ -18616,8 +18577,7 @@ _EC_2941_N_locus_G_m
 _A_Xenética
 _L_es_locus
 _L_en_locus
-_L_pt_locus
-<text top="404" left="128" width="65" height="18" font="10"><i><b>locus niger</b></i></text>
+_L_pt_locuslocus niger</b></i>
 _V_substancia negra
 _EC_2942_N_logopeda      s
 _A_Organización sanitaria
@@ -19003,8 +18963,7 @@ _A_Xenética
 _S_cadro de lectura
 _L_es_cuadro de lectura; pauta de lectura
 _L_en_reading frame
-_L_pt_quadro de leitura
-<text top="728" left="342" width="35" height="18" font="2"> 3002 </text>
+_L_pt_quadro de leitura3002 
 _ER_mareo      m
 _A_Semioloxía
 _L_es_mareo
@@ -19687,8 +19646,7 @@ _A_Anatomía
 _L_es_metatarso
 _L_en_metatarsus
 _L_pt_metatarso
-_L_la_metatarsus
-<text top="716" left="89" width="35" height="18" font="2">  3110 </text>
+_L_la_metatarsus3110 
 _ER_meteorismo      m
 _A_Semioloxía
 _L_es_meteorismo
@@ -19791,8 +19749,7 @@ _L_es_microglia; microglía
 _L_en_microglia
 _L_pt_microglia; micróglia
 _EC_3129_N_micrognatia_G_f
-_A_Semioloxía
-<text top="636" left="374" width="125" height="14" font="0">  VAR.- micrognatismo (m)</text>
+_A_SemioloxíaVAR.- micrognatismo (m)
 _L_es_micrognatia; micrognatismo
 _L_en_micrognathia; micrognathism
 _L_pt_micrognatia; micrognatismo
@@ -20017,8 +19974,7 @@ _L_pt_mioclonia
 _ER_mioclono
 _V_mioclonía
 _ER_miodinia
-_V_mialxia
-<text top="619" left="89" width="35" height="18" font="2"> 3169 </text>
+_V_mialxia3169 
 _ER_miofascite      f
 _A_Patoloxías
 _L_es_miofascitis
@@ -20694,8 +20650,7 @@ _S_músculo dérmico
 _L_es_músculo cutáneo
 _L_en_cutaneous muscle
 _L_pt_músculo cutâneo
-_L_la_musculus cutaneus
-<text top="125" left="89" width="35" height="18" font="2"> 3276 </text>
+_L_la_musculus cutaneus3276 
 _ER_músculo da barbela      m
 _A_Anatomía
 _S_músculo elevador do labio inferior; músculo mentoniano
@@ -21112,8 +21067,7 @@ _L_la_musculus gluteus medius
 _ER_músculo glúteo menor      
 _V_músculo glúteo mínimo
 _EC_3332_N_músculo glúteo mínimo_G_m
-_A_Anatomía
-<text top="537" left="374" width="142" height="14" font="0">  VAR.- músculo glúteo menor</text>
+_A_AnatomíaVAR.- músculo glúteo menor
 _L_es_músculo glúteo menor
 _L_en_gluteus minimus; gluteus minimus muscle
 _L_pt_músculo glúteo mínimo
@@ -22707,8 +22661,7 @@ _EC_3565_N_nicturia_G_f
 _A_Semioloxía
 _L_es_nicturia
 _L_en_nocturia; nycturia
-_L_pt_nictúria
-<text top="666" left="381" width="32" height="18" font="10"><i><b>nigra</b></i></text>
+_L_pt_nictúrianigra</b></i>
 _V_substancia negra
 _EC_3566_N_niño celular_G_m
 _A_Anatomía patolóxicaVAR.- niño de células
@@ -24166,8 +24119,7 @@ _A_Semioloxía
 _S_palescencia
 _L_es_palescencia; palidez
 _L_en_paleness; pallor
-_L_pt_palescência; palidez
-<text top="289" left="128" width="55" height="18" font="10"><i><b>pallidum</b></i></text>
+_L_pt_palescência; palidezpallidum</b></i>
 _V_globo pálido
 _EC_3794_N_palma_G_f
 _A_Anatomía
@@ -24240,8 +24192,7 @@ _L_es_pancreatostomía
 _L_en_pancreatostomy
 _L_pt_pancreatostomia
 _ER_pancrectomía
-_V_pancreatectomía
-<text top="366" left="89" width="35" height="18" font="2"> 3806 </text>
+_V_pancreatectomía3806 
 _ER_pandemia      f
 _A_Epidemioloxía
 _L_es_pandemia
@@ -24433,8 +24384,7 @@ _A_Anatomía patolóxica
 _L_es_paraqueratosis
 _L_en_parakeratosis
 _L_pt_paraceratose
-_ER_paraqueratose 
-<text top="708" left="472" width="58" height="18" font="10"><i><b>variegata</b></i></text>
+_ER_paraqueratose variegata</b></i>
 _V_parapsoríase
 _ER_parasimpaticolítico      
 _V_anticolinérxico
@@ -24655,10 +24605,8 @@ _L_es_pie de inmersión; pie de trinchera
 _L_en_immersion foot; trench foot
 _L_pt_pé-de-imersão; pé-de-trincheira
 _ER_pé de trincheira
-_V_pé de inmersión
-<text top="494" left="128" width="104" height="18" font="10"><i><b>pectus carinatum</b></i></text>
-_V_tórax en quilla
-<text top="540" left="128" width="107" height="18" font="10"><i><b>pectus excavatum</b></i></text>
+_V_pé de inmersiónpectus carinatum</b></i>
+_V_tórax en quillapectus excavatum</b></i>
 _V_tórax escavado
 _EC_3868_N_pediatra      s
 _A_Organización sanitaria
@@ -25088,8 +25036,7 @@ _V_personalidade antisocial
 _ER_perspiración
 _V_suor
 _ER_perspiración
-_V_diaforese
-<text top="515" left="381" width="54" height="18" font="10"><i><b>pertussis</b></i></text>
+_V_diaforesepertussis</b></i>
 _V_tose ferina
 _EC_3937_N_pesario_G_m
 _A_Terapéutica
@@ -25642,8 +25589,7 @@ _L_es_plexopatía
 _L_en_plexopathy
 _L_pt_plexopatia
 _ER_plicación
-_V_plicatura
-<text top="666" left="342" width="35" height="18" font="2"> 4019 </text>
+_V_plicatura4019 
 _ER_plicatura      f
 _A_TerapéuticaVAR.- plicación
 _L_es_plicación; plicatura
@@ -25941,8 +25887,7 @@ _EC_4066_N_poliúria_G_f
 _A_Semioloxía
 _L_es_poliuria
 _L_en_polyuria
-_L_pt_poliúria
-<text top="766" left="128" width="37" height="18" font="10"><i><b>pollex</b></i></text>
+_L_pt_poliúriapollex</b></i>
 _V_dedo polgar
 _EC_4067_N_polpa branca_G_f
 _A_Histoloxía
@@ -27101,8 +27046,7 @@ _NOT_Evítese “pulso paradóxico”.
 _ER_*pulso paradóxico  
 _V_pulso paradoxal
 _ER_pulsómetro
-_V_pulsímetro
-<text top="512" left="381" width="99" height="18" font="10"><i><b>pulsus alternans</b></i></text>
+_V_pulsímetropulsus alternans</b></i>
 _V_pulso alternante
 _ER_pulverización
 _V_nebulización
@@ -27464,16 +27408,12 @@ _A_Bioquímica
 _L_es_radical carboxilo
 _L_en_carboxil radical
 _L_pt_radical carboxila [Br.]; radical carboxilo [Pt.]
-_EC_4301_N_radical libre de O
-<text top="522" left="236" width="4" height="10" font="13"><b>2</b></text>
+_EC_4301_N_radical libre de O2</b>
 _ER_m
 _A_Bioquímica
-_L_es_radical libre de O
-<text top="554" left="230" width="4" height="8" font="15"><i>2</i></text>
-_L_en_O
-<text top="569" left="158" width="4" height="8" font="15"><i>2</i></text>free radical
-_L_pt_radical livre de O
-<text top="583" left="229" width="4" height="8" font="15"><i>2</i></text>
+_L_es_radical libre de O2</i>
+_L_en_O2</i>free radical
+_L_pt_radical livre de O2</i>
 _EC_4302_N_radical metilo_G_m
 _A_Bioquímica
 _L_es_radical metilo
@@ -27506,8 +27446,7 @@ _L_es_radiobiología
 _L_en_radiobiology
 _L_pt_radiobiologia
 _ER_radiodensidade      
-_V_radioopacidade
-<text top="558" left="342" width="35" height="18" font="2"> 4308 </text>
+_V_radioopacidade4308 
 _ER_radiodermatite      f
 _A_PatoloxíasVAR.- radiodermite
 _L_es_radiodermatitis; radiodermitis
@@ -27856,9 +27795,7 @@ _EC_4358_N_reflexo bulbocavernoso_G_m
 _A_Semioloxía
 _L_es_reflejo bulbocavernoso
 _L_en_bulbocavernosus reflex; bulbocavernous reflex; bulbospongiosus reflex
-_L_pt_reflexo bulbocavernoso; reflexo bulbo-cavernoso
-<text top="704" left="342" width="35" height="18" font="12"> 4359 </text>
-<text top="704" left="381" width="123" height="18" font="11"><b>reflexo corneal      m</b></text>Semioloxía
+_L_pt_reflexo bulbocavernoso; reflexo bulbo-cavernoso4359 reflexo corneal      m</b>Semioloxía
 _S_reflexo palpebral
 _L_es_reflejo corneal
 _L_en_blink reflex; corneal reflex
@@ -28180,8 +28117,7 @@ _V_resposta inmune
 _ER_resucitación
 _V_reanimación
 _ER_resucitación cardiopulmonar      
-_V_reanimación cardiopulmonar
-<text top="494" left="381" width="59" height="18" font="10"><i><b>rete testis</b></i></text>
+_V_reanimación cardiopulmonarrete testis</b></i>
 _V_rede testicular
 _EC_4411_N_retención urinaria_G_f
 _A_Etiopatoxenia
@@ -28201,9 +28137,7 @@ _ER_granular
 _V_retículo endoplasmático rugoso
 _EC_4413_N_retículo endoplasmático liso_G_m
 _A_Histoloxía
-_S_retículo endoplasmático agranular; 
-<text top="230" left="121" width="47" height="14" font="0">  REL (sg) </text>
-<text top="245" left="121" width="161" height="14" font="0">  VAR.- retículo endoplásmico liso</text>
+_S_retículo endoplasmático agranular; REL (sg) VAR.- retículo endoplásmico liso
 _L_es_REL (sg); retículo endoplasmático agranular; retículo endoplasmático liso
 _L_en_AER (sg); agranular endoplasmic reticulum; SER (sg); smooth endoplasmic reticulum
 _L_pt_REL (sg); retículo endoplasmático liso
@@ -29247,10 +29181,8 @@ _A_Patoloxías
 _S_disentería bacilar
 _L_es_disentería bacilar; shigellosis; shigelosis
 _L_en_bacillary dysentery; shigellosis
-_L_pt_disenteria bacilar; shigelose; shiguelose
-<text top="601" left="128" width="34" height="18" font="10"><i><b>shunt</b></i></text>
-_V_anastomose
-<text top="633" left="128" width="37" height="18" font="10"><i><b>shunt </b></i></text>
+_L_pt_disenteria bacilar; shigelose; shigueloseshunt</b></i>
+_V_anastomoseshunt </b></i>
 _V_curtocircuíto
 _ER_SIADH
 _V_síndrome de secreción inadecuada de ADH
@@ -29992,8 +29924,7 @@ _A_FarmacoloxíaVAR.-
 _A_sirolimus
 _L_es_sirolimo; sirolimus
 _L_en_sirolimus
-_L_pt_sirolimo; sirolimus
-<text top="125" left="128" width="57" height="18" font="10"><i><b>sirolimus</b></i></text>
+_L_pt_sirolimo; sirolimussirolimus</b></i>
 _V_sirolimo
 _EC_4689_N_sistema_G_m
 _A_Anatomía
@@ -30658,8 +30589,7 @@ _L_es_talón
 _L_en_heel
 _L_pt_talão
 _L_la_calx
-_NOT_Algúns dicionarios galegos diferencian entre “talón” e “calcañar” indicando que o segundo é a ‘parte inferior do talón’.
-<text top="486" left="128" width="31" height="18" font="10"><i><b>talus</b></i></text>
+_NOT_Algúns dicionarios galegos diferencian entre “talón” e “calcañar” indicando que o segundo é a ‘parte inferior do talón’.talus</b></i>
 _V_astrágalo
 _EC_4784_N_tamaño da mostra_G_m
 _A_Epidemioloxía
@@ -31560,8 +31490,7 @@ _A_Probas complementarias
 _S_coloración de Gram
 _L_es_tinción de Gram
 _L_en_Gram stain
-_L_pt_coloração de Gram
-<text top="368" left="128" width="48" height="18" font="10"><i><b>tinnitus</b></i></text>
+_L_pt_coloração de Gramtinnitus</b></i>
 _V_acúfeno
 _EC_4920_N_tiña_G_f
 _A_Patoloxías
@@ -32264,8 +32193,7 @@ _A_SemioloxíaVAR.-
 _A_trismus
 _L_es_trismo; trismus
 _L_en_trismus
-_L_pt_trismo
-<text top="744" left="374" width="53" height="18" font="10"><i><b>  trismus</b></i></text>
+_L_pt_trismotrismus</b></i>
 _V_trismo
 _EC_5029_N_trisomía_G_f
 _A_Xenética
@@ -32452,8 +32380,7 @@ _EC_5055_N_tuba auditiva_G_f
 _A_Anatomía
 _S_trompa auditiva; trompa de Eustaquio
 _L_es_trompa auditiva; trompa de Eustaquio
-_L_en_auditory tube; eustachian tube
-<text top="217" left="291" width="9" height="14" font="0">;  </text>pharyngotympanic tube
+_L_en_auditory tube; eustachian tube;  pharyngotympanic tube
 _L_pt_trompa de Eustáquio; tuba auditiva
 _L_la_tuba auditiva; tuba auditoria
 _EC_5056_N_tuba uterina_G_f
@@ -32497,8 +32424,7 @@ _ER_superior
 _V_colículo superior
 _EC_5060_N_tubérculo maior do úmero_G_m
 _A_Anatomía
-_S_troquíter
-<text top="375" left="385" width="13" height="14" font="0">es </text>troquíter; tubérculo mayor del húmero
+_S_troquíteres troquíter; tubérculo mayor del húmero
 _L_en_greater tubercle of humerus
 _L_pt_troquiter; tubérculo maior do úmero
 _L_la_tuberculum majus humeri
@@ -32926,8 +32852,7 @@ _L_la_uvula palatina
 _ER_uvulotomía 
 _V_estafilotomía
 _ER_V par cranial 
-_V_nervio trixémino
-<text top="724" left="381" width="58" height="18" font="10"><i><b>vaccinum</b></i></text>
+_V_nervio trixéminovaccinum</b></i>
 _V_vacina
 _EC_5124_N_vacina_G_f
 _A_Medicina preventivaVAR.- 
