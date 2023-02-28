@@ -32,7 +32,8 @@ def marcaEC(t):
     return t
 
 def marcaER(t):
-    t = re.sub(r'###\s*(.*\n)', r'_ER__N_\1', t)
+    t = re.sub(r'###\s*(.*\n)', r'_ER_\1', t)
+    t = re.sub(r'_ER_[A-Z]\n', r'', t)
     return t
 
 ####
@@ -54,6 +55,16 @@ def marcaECArea(t):
     t = re.sub(r'_A_\n', r'', t)
     return t
 
+def marcaNotas(t):
+    t = re.sub(r'<text.*font="9">\s*Nota.-\s*(\w.*)</text>', r'_NOT_\1', t)
+    t = re.sub(r'\n<text.*font="9">\s*(\S.*)</text>', r'\1', t)
+    return t
+
+def marcaResto(t):
+    t = re.sub(r'<text.*font="5">\s*Vid.-\s*(\w.*)</text>', r'_V_\1', t)
+    t = re.sub(r'\n<text.*font="5">\s*(\S.*)</text>', r'\1', t)
+    return t
+
 
 text = removeXMLTop(text)
 text = removeHeaderFooter(text)
@@ -61,10 +72,12 @@ text = removeTextoVazio(text)
 
 text = marcaE(text)
 text = marcaEC(text)
-# text = marcaER(text)
+text = marcaER(text)
 
 text = marcaLinguas(text)
 text = marcaSIN(text)
-# text = marcaECArea(text)
+text = marcaECArea(text)
+text = marcaNotas(text)
+text = marcaResto(text)
 
 open("result.txt", "w").write(text)
