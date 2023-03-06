@@ -87,28 +87,25 @@ text = marcaECArea(text)
 text = marcaNotas(text)
 text = marcaResto(text)
 
-open("result.txt", "w").write(text)
+# open("result.txt", "w").write(text)
 
-
-dic = []
+dic = {}
 taux = ""
 
 list = text.split('\n_EC_')
 
-# for i in list[1:]:
-#     entry = {}
-#     i = i.split("_N_")
-#     entry["id"] = i[0]
-#     i = i[1].split("_G_")
-#     entry["nome"] = i[0]
-#     i = i[1].split("\n_A_")
-#     entry["area"] = i[0]
-    
-#     dic.append(entry)
+
+for i in list[1:]:
+    entry = {}
+    i = i.split("_N_")
+    id = i[0]
+    i = i[1].split("_G_")
+    entry["nome"] = i[0]
+    # i = i[1].split("\n_A_")
+    # entry["area"] = i[0]
+    dic[id] = entry
     
 
-
-# open("res.json", "w").write(str(dic))
 with open('res.json', 'w', encoding='utf8') as fp:
     json.dump(dic, fp, ensure_ascii=False)
 
